@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The "CovidVision: Advanced COVID-19 Detection from Lung X-rays with Deep Learning" project aims to utilize deep learning algorithms to analyze lung X-ray images for signs of COVID-19 infection. This system provides accurate and rapid diagnosis to aid in the early detection and containment of the virus.
+The "CovidVision: Advanced COVID-19 Detection from Lung X-rays with Deep Learning" project aims to utilize deep learning algorithms to analyze lung X-ray images for signs of COVID-19 infection. This system provides accurate and rapid diagnosis to aid in the early detection and containment of the virus. The deployed model can be used on this [Huggingface Space](https://huggingface.co/spaces/ishans24/covid19-detection-xray).
 
 ## Objectives
 
