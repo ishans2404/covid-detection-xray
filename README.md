@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The "CovidVision: Advanced COVID-19 Detection from Lung X-rays with Deep Learning" project aims to utilize deep learning algorithms to analyze lung X-ray images for signs of COVID-19 infection. This system provides accurate and rapid diagnosis to aid in the early detection and containment of the virus. The deployed model can be used on this [Huggingface Space](https://huggingface.co/spaces/ishans24/covid19-detection-xray).
+The "CovidVision: Advanced COVID-19 Detection from Lung X-rays with Deep Learning" project aims to utilize deep learning algorithms to analyze lung X-ray images for signs of COVID-19 infection. This system provides accurate and rapid diagnosis to aid in the early detection and containment of the virus. The deployed model can be used on this [Huggingface Space](https://huggingface.co/spaces/ishans24/covid19-detection-xray). The demo can be accessed from [here](https://drive.google.com/file/d/1pXjmzfRY84W9hw33XPb1HjZXX9SvM2rv/view?usp=sharing).
 
 ## Objectives
 
@@ -77,16 +77,10 @@ The "CovidVision: Advanced COVID-19 Detection from Lung X-rays with Deep Learnin
 
 ### Results
 
-Comparison of performance metrics before and after tuning to justify the final model selection.
-
 ## Final Model Selection Justification
 
 *Final Model:* VGG19-based CNN model  
 *Reasoning:* Chosen for its strong feature extraction capabilities, effective use of transfer learning, and balanced approach to handling the dataset. Its high accuracy on test data and good performance on training and validation data validated its effectiveness in classifying chest X-ray images into COVID-19 positive and normal categories.
-
-## Output Screenshots
-
-Screenshots showcasing the final model's predictions and performance metrics.
 
 ## Advantages & Disadvantages
 
