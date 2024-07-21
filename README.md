@@ -65,12 +65,6 @@ The "CovidVision: Advanced COVID-19 Detection from Lung X-rays with Deep Learnin
 *Model:* Convolutional Neural Network (CNN) leveraging the VGG19 architecture, pre-trained on the ImageNet dataset.  
 *Description:* The model classifies chest X-ray images into two categories: COVID-19 positive and normal, utilizing the powerful feature extraction capabilities of a deep network trained on a large and diverse dataset, which is fine-tuned for this specific task.
 
-### Initial Model Training Code, Model Validation, and Evaluation Report
-
-*Model Summary:* Detailed summary and training and validation performance metrics for multiple models.
-
-## Model Optimization and Tuning
-
 ### Tuning Documentation
 
 *Model 1 Tuned Hyperparameters:*
